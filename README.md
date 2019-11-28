@@ -23,8 +23,8 @@ A simple classifier used to classify images of damaged cars from non-damaged car
 
 ### Step 1: Clone the Repo, Install dependencies
 ```bash
-git clone https://github.com/NanoNets/nanonets-vehicle-damage-inspection.git
-cd nanonets-vehicle-damage-inspection
+git clone https://github.com/NanoNets/nanonets-car-damage-classification.git
+cd nanonets-car-damage-classification
 sudo pip install nanonets
 ```
 
